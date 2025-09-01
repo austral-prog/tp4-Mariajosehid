@@ -9,3 +9,4 @@ def leap_year():
 if __name__ == "__main__":
     año = int(input("Ingrese un año: "))
     print(leap_year())
+leap_year()
